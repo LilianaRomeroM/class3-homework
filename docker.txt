@@ -1,0 +1,9 @@
+Docker container is a box that containes all the things that my applications needs
+to be executed (program, info, application itself), so I can take that box to 
+any machine that has Docker installed and run the application without having to do
+or think anything else.
+I would use it If I work with a group and I need to give to a colleague something
+for testing...In case my colleague does not have the same version needed in 
+order to run the application, he avoids the problem/additional work of installing
+new versions or having problems in the test.  If he runs the app under Docker,
+that includes the version required, everything will be working properly and easier.
